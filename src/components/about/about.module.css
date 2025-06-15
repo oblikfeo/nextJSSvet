@@ -1,0 +1,14 @@
+.wrapper {
+  display: flex;
+  gap: 30px;
+  background-color: rgba(44, 48, 49, 1);
+  padding: 80px 40px 40px 40px;
+}
+
+.left {
+  width: 100%;
+}
+
+.right {
+  width: 100%;
+}
